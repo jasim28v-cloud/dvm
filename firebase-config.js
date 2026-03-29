@@ -1,7 +1,8 @@
+// firebase-config.js
 const firebaseConfig = {
     apiKey: "AIzaSyAxtEkrEgl0C9djPkxKKX-sENtOzPEbHB8",
     authDomain: "tope-e5350.firebaseapp.com",
-    databaseURL: "https://fokx-c135a-default-rtdb.firebaseio.com",
+    databaseURL: "https://tope-e5350-default-rtdb.firebaseio.com",
     projectId: "tope-e5350",
     storageBucket: "tope-e5350.firebasestorage.app",
     messagingSenderId: "187788115549",
